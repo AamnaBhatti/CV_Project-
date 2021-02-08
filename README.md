@@ -25,6 +25,7 @@ Result:
 | ResNetV1 |  97.76% | 98.3% | 98.68% |
 | ResNetV2  |  98.1% | 98.5% | 99.2% |<br>
 <br>
-Confusion Matrix of ResNet V2 with CBAM <br>
+Confusion Matrix of ResNet V2 with CBAM 
+
 ![cm](https://user-images.githubusercontent.com/74530146/107262855-e2d6cf80-6a62-11eb-904b-33ea9b21fc58.png)
 
