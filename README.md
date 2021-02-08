@@ -6,6 +6,7 @@ Our contribution is as follows:
 * ResNet version 1 and version 2
 * ResNet   version   1   with   Squeeze   and   Excitation block,  ResNet  version  2  with  Squeeze  and  Exci-tation block
 * ResNet  version  1  with  Convolutional  Block  Atten-tion  Module,  ResNet  version  2  with  ConvolutionalBlock Attention Module3)  
+![ResultsReadme](https://user-images.githubusercontent.com/74530146/107240364-a5b31300-6a4b-11eb-9093-c753c997bec2.png)
 3) Lastly we visualized feature maps to understand what islearned in them
 ![89](https://user-images.githubusercontent.com/74530146/107236529-9c27ac00-6a47-11eb-8442-e32fc0420b5c.png)
 
