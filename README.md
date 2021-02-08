@@ -23,7 +23,7 @@ Result:
 | Attempt | Base Model | SE | CBAM |
 | :-: | :-: | :-:| :-: |
 | ResNetV1 |  97.76% | 98.3% | 98.68% |
-| ResNetV2  |  98.1 | 98.5% | 99.2% |<br>
+| ResNetV2  |  98.1% | 98.5% | 99.2% |<br>
 
 
 
